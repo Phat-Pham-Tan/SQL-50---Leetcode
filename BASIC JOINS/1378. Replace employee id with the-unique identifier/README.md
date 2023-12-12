@@ -1,4 +1,4 @@
-# 1378. Replace employee id with the-unique identifier
+# 1378. Replace employee id with the unique identifier
 
 - Information: [Click Here!](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50)
 
